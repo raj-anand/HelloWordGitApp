@@ -14,6 +14,13 @@ public class HelloWorld {
 		System.out.println("Hello 2");
 		System.out.println("Hello 2");
 		
+		System.out.println("Hello 2");
+		System.out.println("Hello 2");
+		System.out.println("Hello 2");
+		System.out.println("Hello 2");
+		System.out.println("Hello 2");
+		System.out.println("Hello 2");
+		//check the print stmts
 
 	}
 
